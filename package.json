@@ -1,0 +1,37 @@
+{
+  "name": "scapexss",
+  "version": "0.0.1",
+  "description": "A small library providing utility methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rogergui3000/scapexss.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Mekeidje Roger <rogergui3000@gmail.com> (http://mekeidjeroger.comli.com/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/rogergui3000/scapexss/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/rogergui3000/scapexss/issues"
+  },
+  "devDependencies": {
+    "chai": "^1.8.1",
+    "mocha": "^1.16.2"
+  },
+  "homepage": "https://github.com/rogergui3000/scapexss#readme",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC"
+}
